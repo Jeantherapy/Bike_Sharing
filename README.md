@@ -20,7 +20,7 @@ The second visualization focuses on the checkout times by gender. It compares th
 The third visualization provides a heatmap of bike trips by weekday and hour. It reveals the overall usage patterns throughout the week and shows when bikes are in high demand. We can observe that weekdays, particularly during the morning and evening rush hours, experience higher bike usage compared to weekends.
 
 ### Visualization 4: Trips by Gender (Weekday per Hour)
-![Trips by Gender (Weekday per Hour)](link-to-image-4)
+![Trips by Gender (Weekday per Hour)](https://github.com/Jeantherapy/Bike_Sharing/blob/main/Images/Image%204.png)
 
 The fourth visualization expands on the previous heatmap by analyzing trips by gender for each weekday and hour. It allows us to understand how bike usage varies among different genders across different times of the week. We can identify any gender-specific patterns and identify target areas for user engagement or marketing campaigns.
 
