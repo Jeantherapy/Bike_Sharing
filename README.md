@@ -10,7 +10,7 @@ The purpose of this analysis was to explore and analyze the NYC Citibike dataset
 The first visualization depicts the checkout times for all Citibike users. This visualization depicts the length of time that bikes are checked out for all riders. By filtering the trip duration to include only trips within the range of 0-2 hours and minutes, it provides a focused view of short-duration rides. The visualization reveals the distribution of checkout times and allows us to identify peak periods of usage during these shorter time intervals.
 
 ### Visualization 2: Checkout Times by Gender
-![Checkout Times by Gender](link-to-image-2)
+![Checkout Times by Gender](https://github.com/Jeantherapy/Bike_Sharing/blob/main/Images/Image%202.png)
 
 The second visualization focuses on the checkout times by gender. It compares the trip durations between male, female, and undisclosed gender users. We can see that the patterns of checkout times are similar across genders, with peak hours aligning with commuting times. However, there might be slight variations in the intensity of bike usage during certain periods.
 
