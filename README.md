@@ -5,7 +5,7 @@ The purpose of this analysis was to explore and analyze the NYC Citibike dataset
 
 ## Results
 ### Visualization 1: Checkout Times for Users
-![Checkout Times for Users](link-to-image-1)
+![Checkout Times for Users](https://github.com/Jeantherapy/Bike_Sharing/blob/main/Images/Image%201.png)
 
 The first visualization depicts the checkout times for all Citibike users. This visualization depicts the length of time that bikes are checked out for all riders. By filtering the trip duration to include only trips within the range of 0-2 hours and minutes, it provides a focused view of short-duration rides. The visualization reveals the distribution of checkout times and allows us to identify peak periods of usage during these shorter time intervals.
 
