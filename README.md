@@ -25,7 +25,7 @@ The third visualization provides a heatmap of bike trips by weekday and hour. It
 The fourth visualization expands on the previous heatmap by analyzing trips by gender for each weekday and hour. It allows us to understand how bike usage varies among different genders across different times of the week. We can identify any gender-specific patterns and identify target areas for user engagement or marketing campaigns.
 
 ### Visualization 5: User Trips by Gender by Weekday
-![User Trips by Gender by Weekday][(link-to-im(https://github.com/Jeantherapy/Bike_Sharing/blob/main/Images/Image%205.png)
+![User Trips by Gender by Weekday](https://github.com/Jeantherapy/Bike_Sharing/blob/main/Images/Image%205.png)
 
 The fifth visualization presents a stacked bar chart showing user trips by gender for each weekday. It provides a comprehensive view of bike usage for different genders throughout the week. We can observe any variations in user behavior and identify specific weekdays that attract higher usage among different genders.
 
