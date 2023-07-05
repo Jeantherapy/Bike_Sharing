@@ -15,7 +15,7 @@ The first visualization depicts the checkout times for all Citibike users. This 
 The second visualization focuses on the checkout times by gender. It compares the trip durations between male, female, and undisclosed gender users. We can see that the patterns of checkout times are similar across genders, with peak hours aligning with commuting times. However, there might be slight variations in the intensity of bike usage during certain periods.
 
 ### Visualization 3: Trips by Weekday for Each Hour
-![Trips by Weekday for Each Hour](link-to-image-3)
+![Trips by Weekday for Each Hour](https://github.com/Jeantherapy/Bike_Sharing/blob/main/Images/Image%203.png)
 
 The third visualization provides a heatmap of bike trips by weekday and hour. It reveals the overall usage patterns throughout the week and shows when bikes are in high demand. We can observe that weekdays, particularly during the morning and evening rush hours, experience higher bike usage compared to weekends.
 
